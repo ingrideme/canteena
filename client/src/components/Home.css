@@ -1,0 +1,8 @@
+ .usuarios {
+     list-style: none;
+ }
+
+ .usuarios li {
+     font-size: 24px;
+     margin-bottom: 24px;
+ }
